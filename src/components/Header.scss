@@ -1,0 +1,37 @@
+$blue-900: #03045e;
+$blue-800: #023e8a;
+$blue-700: #0077b6;
+$blue-600: #0096c7;
+$blue-500: #00b4d8;
+$blue-400: #48cae4;
+$blue-300: #90e0ef;
+$blue-200: #ade8f4;
+$blue-100: #caf0f8;
+.MuiAppBar-colorPrimary {
+    .MuiToolbar-root {
+        background-color:$blue-900;
+    }
+    .MuiTypography-root {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .logo-image {
+            width: 42px;
+            height: 34px;
+            border-radius: 50%;
+            margin-right: 20px;
+            filter: invert(48%) sepia(-18%) saturate(3207%) hue-rotate(200deg) brightness(95%) contrast(80%);
+        }
+    }
+}
+.ava{
+    display: flex;
+    margin-right: 55px;
+    padding: 5px 0px 6px 0px;
+}
+.abt{
+    
+    border-radius: 10px;
+    color: #48cae4;
+    border-color: #00171F;
+}

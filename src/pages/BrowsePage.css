@@ -1,0 +1,96 @@
+.flight{
+background-image:
+ url("https://img.freepik.com/free-photo/flat-lay-white-planes-with-copy-space_23-2148580917.jpg");
+    background-color: whitesmoke;
+    backdrop-filter: blur(10px);
+    width: 700px;
+
+    border-radius: 50px;
+    margin: 13px 270px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: rgb(0 0 0 / 26%) 1px 1px 10px;
+}
+.fligh{
+    padding: 0px 0px -6px -20px;
+   margin-bottom: 6px;
+}
+.flig{
+    background-color: #007EA7;
+    margin-bottom:10px;
+    border-radius: 10px;
+    color: navajowhite;
+    border-color: #00171F;
+}
+#formcontrol{
+    width: 400px;
+    margin: 0px -6px -20px 140px;
+    justify-content: center;
+    
+}
+.btn-primary{
+    width: 190px;
+    margin-bottom: 30px;
+}
+#form{
+    margin-top: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.fli{
+    background-color: whitesmoke;
+}
+.flg{
+    background-color: #007EA7;
+    margin-bottom:10px;
+    border-radius: 10px;
+    color: navajowhite;
+    border-color: #00171F;
+}
+.half-underline {
+    background: linear-gradient(to center, transparent 50%, navajowhite 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .fig{
+    background-color: #007EA7;
+   margin-top: 25px;
+   width: 700px;
+   height: 50px;
+   font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: large;
+    border-radius: 10px;
+    color: white;
+    border-color: #00171F;
+}
+.fiig{
+   color: navy;
+    border-color: #00171F;
+    position: relative;
+    right: 500px;
+    top: -45px;
+}
+#fiig{
+    color: navy;
+    border-color: #00171F;
+    position: relative;
+    left: 500px;
+    top: -45px;
+} 
+
+.iig{
+    color: navy;
+     border-color: #00171F;
+     position: relative;
+     left: 500px;
+     top: -45px;
+ }
+#payment-method-select{
+    border-radius: 10px;
+  
+ }
+ .kq{
+    border-bottom: #00171F;
+    border: 1px;
+ }

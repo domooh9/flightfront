@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+html,
+body,
+#app,
+#app > div,
+#root {
+  background-color: #caf0f8;
+  height: 100%;
+}
+
+
+
+/**
+* Webkit scrollbar
+*/
+body::-webkit-scrollbar {
+  width: 12px;
+  height: 30px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #03045e;
+  border: 3px solid #caf0f8;
+  border-radius: 10px;
+}
+body::-webkit-scrollbar-track {
+  background: #caf0f8;
+}
+
+::-webkit-scrollbar-button {
+  height: 12px;
+}

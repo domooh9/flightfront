@@ -1,0 +1,29 @@
+.not-found-page {
+    position: relative;
+    .not-found {
+        width: 20px;
+        height: 20px;
+        filter: blur(20px);
+        -webkit-filter: blur(20px);
+        /* Full height */
+        height: 100%;
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: -webkit-fill-available;
+        height: -webkit-fill-available;
+    }
+    .not-found-message {
+        position: absolute;
+        font-size: 15px;
+        color: #f669a5;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        text-shadow: 0 2px 4px rgb(71 96 201 / 36%);
+        background: #1a38a5;
+        border-radius: 10px;
+        padding: 15px;
+    }
+}
